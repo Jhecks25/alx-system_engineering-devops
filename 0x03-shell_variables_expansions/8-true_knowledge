@@ -1,2 +1,2 @@
 #!/bin/bash
-printf($TRUEKNOWLEDGE=128+89)
+export TRUEKNOWLEDGE=128
